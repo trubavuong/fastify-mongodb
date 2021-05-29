@@ -1,3 +1,9 @@
+#### 1.0.1 (2021-05-29)
+
+##### Documentation Changes
+
+*  add @trubavuong/mongodb to install list ([f13ba198](https://github.com/trubavuong/fastify-mongodb/commit/f13ba1983338615fab934e406f6b2cd89b93ea29))
+
 ## 1.0.0 (2021-05-29)
 
 ##### Documentation Changes
