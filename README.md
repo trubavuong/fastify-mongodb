@@ -5,7 +5,7 @@ Fastify MongoDB connection plugin
 ## Install
 
 ```
-$ npm install @trubavuong/fastify-mongodb
+$ npm install @trubavuong/mongodb @trubavuong/fastify-mongodb
 ```
 
 ## Usage
